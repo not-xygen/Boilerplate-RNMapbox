@@ -20,10 +20,18 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.xploratech.boilerplaternmapbox"
+      "package": "com.developer.applications"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": [
+      [
+        "@rnmapbox/maps",
+        {
+          "RNMapboxMapsDownloadToken": "sk.eyJ1IjoiY2hleWl6dGluZSIsImEiOiJjbHBkcXFjczcxMjRvMmtua2ptenk5cjQ2In0.pPvgzANkJFXHV4CO3y4nIw"
+        }
+      ]
+    ]
   }
 }

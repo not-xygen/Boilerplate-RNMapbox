@@ -1,4 +1,4 @@
-package com.xploratech.boilerplaternmapbox;
+package com.developer.applications;
 
 import android.os.Build;
 import android.os.Bundle;

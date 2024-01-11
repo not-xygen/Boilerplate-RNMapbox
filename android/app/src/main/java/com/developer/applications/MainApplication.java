@@ -1,4 +1,4 @@
-package com.xploratech.boilerplaternmapbox;
+package com.developer.applications;
 
 import android.app.Application;
 import android.content.res.Configuration;

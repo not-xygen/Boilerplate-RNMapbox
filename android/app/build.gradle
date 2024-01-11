@@ -89,9 +89,9 @@ packagingOptions {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace 'com.xploratech.boilerplaternmapbox'
+    namespace 'com.developer.applications'
     defaultConfig {
-        applicationId 'com.xploratech.boilerplaternmapbox'
+        applicationId 'com.developer.applications'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
