@@ -1,40 +1,4 @@
 {
-  "expo": {
-    "name": "Boilerplate-RNMapbox",
-    "slug": "Boilerplate-RNMapbox",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
-    "ios": {
-      "supportsTablet": true
-    },
-    "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      },
-      "package": "com.developer.applications"
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    },
-    "plugins": [
-      [
-        "@rnmapbox/maps",
-        {
-          "RNMapboxMapsDownloadToken": "sk.eyJ1IjoiY2hleWl6dGluZSIsImEiOiJjbHBkcXFjczcxMjRvMmtua2ptenk5cjQ2In0.pPvgzANkJFXHV4CO3y4nIw"
-        }
-      ],
-      "expo-router"
-    ]
-  }
+  "name": "odpmaps",
+  "displayName": "odpmaps"
 }
